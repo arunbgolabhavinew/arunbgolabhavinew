@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Arun
 - 👀 I’m interested in Microsoft Technologies.
-- 🌱 I’m currently learning azure
+  
 
 
 <!---
